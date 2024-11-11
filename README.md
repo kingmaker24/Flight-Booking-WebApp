@@ -110,35 +110,7 @@ node -v
 npm -v
 ```
 
-### Install
 
-Follow the following steps to get development environment running.
-
-
-* Install node modules #even though they are pre-installed run this command to check if they are up to date
-
-   ```bash
-   cd SWADESHI AIRLINES
-   cd frontend
-   npm install
-   cd..
-   cd backend
-   npm install
-   ```
-
-
-### Starting both front end and back end servers
-
-* Build application
-
-  This command will start the mongodb and the front end part.
-
-  ```bash
-  cd frontend
-  npm start
-  cd..
-  cd backend
-  npm run devStart
   ```
 
 
